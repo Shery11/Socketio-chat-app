@@ -4,7 +4,6 @@ Simple chat application using socket-io nodejs and mongodb.
 
 Inorder to run do 
 
-simpel
 
 npm install.
 
